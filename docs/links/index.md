@@ -20,7 +20,7 @@ hide:
 ## Faucets
 - **Faucet-Mainnet:** [https://faucet.radiant4people.com](https://faucet.radiant4people.com)
 - **Faucet-Testnet:** [https://faucet-testnet.radiant4people.com](https://faucet-testnet.radiant4people.com)
-
+- **Faucet-Games:** [https://faucetgames.rxddapps.com](https://faucetgames.rxddapps.com/) 
 ## Explorers
 
 ### Mainnet Explorers
@@ -57,9 +57,7 @@ hide:
 - **MEXC:** [https://www.mexc.com](https://www.mexc.com/exchange/RXD_USDT)
 - **CoinEx:** [https://www.coinex.com](https://www.coinex.com/exchange/RXD-USDT)
 - **Tradeogre:** [https://tradeogre.com](https://tradeogre.com)
-- **Xeggex:** [https://xeggex.com](https://xeggex.com/market/RXD_USDT)
 - **XT**: [https://xt.com](https://www.xt.com/en/trade/rxd_usdt)
-- **Digifinex:** [https://freiexchange.com](https://www.digifinex.com/en-ww/trade/USDT/RXD)
 - **Exbitron:**  [https://www.exbitron.com](https://www.exbitron.com)
 - **Freiexchange:** [https://freiexchange.com](https://freiexchange.com)
 - **XBTS:** [https://xbts.io](https://ex.xbts.io/market/XBTSX.RXD_XBTSX.USDT)
@@ -85,6 +83,7 @@ hide:
 ## Pools
 
 - **Vipor:** [https://vipor.net](https://vipor.net)
+- **BlockMinerZ** [https://blockminerz.com/en/pools/Radiant](https://blockminerz.com/en/pools/Radiant)
 - **Humpool:** [https://humpool.com](https://humpool.com)
 - **TW-pool:** [https://tw-pool.com](https://tw-pool.com)
 - **Kryptex:** [https://pool.kryptex.com/rxd](https://pool.kryptex.com/rxd)
